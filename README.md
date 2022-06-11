@@ -33,12 +33,9 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 **Medios** (donde se tiene presencia relacionada):
 
-- Github:
+- Github: https://murciano1.github.io/
 - Twitter
 - Instagram
-
-
-![girl](https://github.com/mgea/cmi20/blob/master/WalkingGirl_front01.png)
 
 # 2. Memoria del proyecto 
 
@@ -52,13 +49,7 @@ El proyecto comienza con una breve animación de presentación que lleva una int
 ### 2.2. Esquema de navegación 
 
 
-
-(imagen con las distintas pantallas de navegación, usa draw.io o cualquier programa de dibujo)
-
-
-
-
-
+![storyboard](https://user-images.githubusercontent.com/107296911/173178592-96f3d583-7069-4878-ac2f-4d4c2cf81703.jpg)
 
 
 # 3. Metodología
@@ -84,7 +75,7 @@ Este  proyecto es interesante porque ...
 
 **Publico / audiencia**
 
-- Orientado a 
+- Todos los públicos/Infantil
 
 
 
