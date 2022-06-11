@@ -1,21 +1,21 @@
 # cmi22
 
-## (Nombre del proyecto)
+## El mono titiritero
 
 Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de la Univesidad de Granada
 
 
 # 1 Datos 
 
-**Titulo** : MI Proyecto(nombre)
+**Titulo** : MI Proyecto : El mono titiritero
 
 **Web:**   (url github.io)
 
-**Autor:**  (Nombre apellidos)
+**Autor:**  Ricardo de la Blanca Martínez
 
 **Resumen** : Este proyecto busca contar las hitorias de migrantes jóvenes, siendo ellos mismos los protagonistas. Esta será una compilación de relatos y crónicas de sus experiencias, exponiendo su lucha de identidad y sentido de pertenencia, herencia migratoria, entre otros temas que abrirán un debate del tema.
 
-**Estilo/género:**  Novela / juego / portfolio / documental... etc.
+**Estilo/género:**  Storytelling/cuento infantil/fábula.
 
 **Logotipo** : (insertar imagen y breve justificación, si  tiene) 
 
@@ -23,13 +23,13 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 **Resolución:** 800x600px responsivo/o tamaño fijo (indicar la que has aplicado, y si es reescalable)
 
-**Probado en:**   (indicar dónde has probado que funciona: ej. Google Chrome / MS Edge... /móviles android )
+**Probado en:**   Google Chrome
 
-**Tamaño proyecto:** 14MB 
+**Tamaño proyecto:** 88,7 KB
 
 **Licencia** Este proyecto tiene una Licencia CC Reconocimiento Compartir igual (CC BY-SA)
 
-**Fecha** : 14/05/2020
+**Fecha** : 10/06/2022
 
 **Medios** (donde se tiene presencia relacionada):
 
@@ -45,9 +45,7 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 ### 2.1 Storyboard: 
 
 
-
-(narra brevemente lo que sucede en tu proyecto, puedes usar 3-4 imágenes de apoyo)
-
+Narración a través de ilustraciones, diálogos y minijuegos de la fábula del "mono titiritero" también llamada "el mono y el tiburón", un cuento infantil de los años 50, que se retransmitía en la radio de aquella época. La breve historia cuenta el engaño del tiburón y la astucia del mono, cuya moraleja sería prevenir a los niños de confiar en desconocidos y de no creer todo lo que les digan.
 
 
 ### 2.2. Esquema de navegación 
