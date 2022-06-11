@@ -9,11 +9,11 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 **Titulo** : MI Proyecto : El mono titiritero
 
-**Web:**   (url github.io)
+**Web:**   https://murciano1.github.io/
 
 **Autor:**  Ricardo de la Blanca Martínez
 
-**Resumen** : Este proyecto busca contar las hitorias de migrantes jóvenes, siendo ellos mismos los protagonistas. Esta será una compilación de relatos y crónicas de sus experiencias, exponiendo su lucha de identidad y sentido de pertenencia, herencia migratoria, entre otros temas que abrirán un debate del tema.
+**Resumen** : Narración a través de ilustraciones, diálogos y minijuegos de la fábula del "mono titiritero" también llamada "el mono y el tiburón", un cuento infantil de los años 50, que se retransmitía en la radio de aquella época. La breve historia cuenta el engaño del tiburón y la astucia del mono, cuya moraleja sería prevenir a los niños de confiar en desconocidos y de no creer todo lo que les digan.
 
 **Estilo/género:**  Storytelling/cuento infantil/fábula.
 
@@ -21,11 +21,11 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 (insertar imágenes a resolucion de 100px alto)
 
-**Resolución:** 800x600px responsivo/o tamaño fijo (indicar la que has aplicado, y si es reescalable)
+**Resolución:** 600x400px no reescalable
 
 **Probado en:**   Google Chrome
 
-**Tamaño proyecto:** 88,7 KB
+**Tamaño proyecto:** 37,4 MB
 
 **Licencia** Este proyecto tiene una Licencia CC Reconocimiento Compartir igual (CC BY-SA)
 
@@ -44,9 +44,10 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 ### 2.1 Storyboard: 
 
-
-Narración a través de ilustraciones, diálogos y minijuegos de la fábula del "mono titiritero" también llamada "el mono y el tiburón", un cuento infantil de los años 50, que se retransmitía en la radio de aquella época. La breve historia cuenta el engaño del tiburón y la astucia del mono, cuya moraleja sería prevenir a los niños de confiar en desconocidos y de no creer todo lo que les digan.
-
+El proyecto comienza con una breve animación de presentación que lleva una interfaz de menú. Una vez allí dispones de:
+- Jugar: Comienza a reproducir la historia.
+- Galería: Muestra imágenes de los bocetos previos a las ilustraciones finales del proyecto.
+- Configuración: Opciones de ajustes como barra de volumen, selector de música y vídeo explicativo.
 
 ### 2.2. Esquema de navegación 
 
