@@ -17,9 +17,8 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 **Estilo/género:**  Storytelling/cuento infantil/fábula.
 
-**Logotipo** : (insertar imagen y breve justificación, si  tiene) 
+**Logotipo** : ![tiburonlogo](https://user-images.githubusercontent.com/107296911/173179527-af73ac28-1599-41c3-a450-cf9c3703568e.png)
 
-(insertar imágenes a resolucion de 100px alto)
 
 **Resolución:** 600x400px no reescalable
 
@@ -69,7 +68,7 @@ Metodología de desarrollo de productos multimedia basado en una metodología de
 
 **Motivación de la propuesta** 
 
-Este  proyecto es interesante porque ... 
+Este  proyecto es interesante porque es un experimento fruto de la mezcla entre la novela clásica infantil y el minijuego didáctico interactivo. Es ir un paso más allá, no es tan solo un libro en formato digital, sino que es una experiencia nueva y diferente.
 
 
 
@@ -78,35 +77,26 @@ Este  proyecto es interesante porque ...
 - Todos los públicos/Infantil
 
 
-
-
-
 ### Etapa 2: Desarrollo / actividades realizadas
 
-(qué soluciones has planteado y cómo se han resuelto: juego, galería de fotos, grabación de video, etc.)
-
-- Juego. 
-- Video 
-- Instrucciones y ayuda al usuario 
-- Menús y elementos de navegación (botones)
-- etc.
+- Juego. El juego plantea problemas a la hora de programar, sin duda la parte más compleja al utilizar un software como hippani. Son muchas las cosas que hay que tener en cuenta y muchos errores los que aparecen. Aunque dedicándole tiempo, sindo ordenado y utilizando un pensamiento lógico, se puede acabar logrando un resultado satisfactorio.
+- Video. Toda la parte estética del proyecto fue creada en Procreate para iPad. Es lo que compone los fondos de los vídeos.
+- Instrucciones y ayuda al usuario
+- Menús y elementos de navegación (botones) Los botones en un principio no funcionaban, aunque después de cambiarlos de sitio y de tamaño acabaron funcionando. Aunque a veces dan errores incomprensibles como no reproducir la esecena a la que conducen aunque el script así lo identifique.
 
 
 
 ### Etapa 3: Problemas identificados
 
-(que consideras que no  funciona correctamente y por qué )
+En el minijuego, los obstáculos no detectan la colisión con el personaje ya que el código no funciona por motivos que desconozco, a pesar de haber sido revisados numerosas veces.
+
+Al llegar al final del minijuego y ser enviado a la siguiente escena, ésta no se reproduce. Lo cual es un gran inconveniente ya que no se puede avanzar en la historia. Este fallo además no lo ha dado en ningún momento salvo al estar ya exportado el proyecto, a pesar de que los códigos están bien escritos y debería reproducirse la escena siguiente sin problema.
 
 
 
 # 4. Conclusiones 
 
-(explica brevemente tu valoración, problemas que has detectado y que te gustaría hacer o mejorar en el futuro )
-
-
-
-
-
+En conclusión, creo que el resultado final es bastante aceptable. Salvo problemas de última hora, la aplicación funcionaba bastante bien. En un futuro me gustaría mejorar la interacción para hacerla más fluida y cómoda para el usuario. También me gustaría que todos los elementos tuviesen la misma resolución para que visualmente sea más limpio y cohesionado. 
 
 
 # 5 Referencias 
@@ -117,19 +107,18 @@ Este  proyecto es interesante porque ...
 
 **Recursos y materiales audiovisuales:**
 
-* Musica:  
-* Imágenes:  
-* Tipografía
+* Musica: Youtube
+* Imágenes: Ricardo de la Blanca Martínez
+* Tipografía: ArialBlack, Palatino
 
 **Herramientas utilizadas**
 
 - Hippani Animator 5.1
-- 
+- Procreate
+- Photoshop CS6
 
 
-
-(imagen de la licencia, copiar y pegar aquí la correcta)
 
 https://creativecommons.org/licenses/?lang=es
 
-Mayo 2020
+Junio 2022
